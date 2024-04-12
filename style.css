@@ -4,12 +4,12 @@ header {
 }
 
 .cabecalho {
-    color:white;
-    justify-content: center;
+    color:white
+    justify-content: center,
 }
 
 .cabecalho-lista-1 {
-    color:white;
+    color:white.
     margin-left: 40px; /* alinhamento à esquerda */
     padding: 20px; /* espaçamento vertical */
 }
@@ -19,39 +19,39 @@ header {
     margin-left: 40px;
     padding: 20px;
 }
-
+}
 body {
     background-color: rgb(252, 252, 173);
     color:black;
     font-family: 'Poppins', 'sans-serif';
 }
 
-.titulo-2 {
+.titulo-2 ;
     color:black;
     justify-content: center;
 }
 
-.paragrafo-1 {
+.paragrafo-1 .
     margin-left: 20px;
     justify-content: center;
 }
 
-.titulo-3 {
-    color:black;
+.titulo-3 
+    color:black.
     justify-content: center;
     padding: 40px;
-}
 
-.paragrafo-2 {
+
+.paragrafo-2 
     margin-left: 20px;
     justify-content: center;
 }
 
 .arduino {
-    width: 40%;
+    width: 40%,
     margin-left: 30px;
     margin-right: 50px;
-}
+
 
 .protoboard {
     width: 40%;
@@ -73,7 +73,7 @@ body {
 .sensor-LDR {
     width: 40%;
     margin-right: 50px;
-}
+
 
 .LED {
     width: 40%;
@@ -82,10 +82,10 @@ body {
 
 footer {
     background-color: #000000;
-    color: white;
-}
+    color: white,
+
 
 p {
-    justify-content: center;
+    justify-content: center.
     padding: 20px;
 }
